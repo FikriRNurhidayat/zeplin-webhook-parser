@@ -1,6 +1,6 @@
 {
   "name": "zeplin-webhook-parser",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Express HTTP middleware which will parse Zeplin Webhook Request",
   "main": "lib/zeplin.js",
   "repository": {
