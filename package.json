@@ -4,6 +4,10 @@
   "description": "Express HTTP middleware which will parse Zeplin Webhook Request",
   "main": "lib/zeplin.js",
   "repository": "https://github.com/FikriRNurhidayat/zeplin-webhook-parser.git",
+  "bugs": {
+    "url": "https://github.com/FikriRNurhidayat/zeplin-webhook-parser/issues"
+  },
+  "homepage": "https://github.com/FikriRNurhidayat/zeplin-webhook-parser#zeplin-webhook-parser",
   "author": {
     "name": "Fikri Rahmat Nurhidayat",
     "email": "FikriRNurhidayat@gmail.com",
